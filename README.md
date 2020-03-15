@@ -1,10 +1,10 @@
 About script_SA.py
 
 Permissions:
-Commercial use - NONE
-Modification - NONE
-Distribution - NONE
+Commercial use - No permission
+Modification - No permission
+Distribution - No permission
 
-Educational and private use only
+For educational use only
 
 2020 github zivlir
